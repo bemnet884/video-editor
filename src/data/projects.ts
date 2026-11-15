@@ -87,11 +87,11 @@ export interface TestimonialItem {
 /**
  * ============================================================================
  * EDITOR PROFILE & CONTACT DETAILS
- * Replace [YOUR NAME], email, messenger URLs, and video URLs with your own.
+ * Replace Bem B., email, messenger URLs, and video URLs with your own.
  * ============================================================================
  */
 export const EDITOR_PROFILE = {
-  name: '[YOUR NAME]',
+  name: 'Bem B.',
   tagline: 'Video editor / weddings, music videos, brands',
   showreelTitle: '2026 Director & Editor Showreel',
   showreelCategory: 'Showreel',
@@ -105,10 +105,10 @@ export const EDITOR_PROFILE = {
   aboutCopy:
     'I partner with directors, wedding filmmakers, and independent brands to shape raw multi-camera footage into cinema that lingers. Eight years at the timeline across narrative cuts, sound design, and film-emulation grading.',
   contactHeadline: "Let's make something people remember.",
-  email: 'hello@yourname-edit.com',
+  email: 'hello@bemb-edit.com',
   whatsappUrl:
-    'https://wa.me/15550199284?text=Hi%2C%20I%20would%20like%20to%20book%20an%20edit.',
-  telegramUrl: 'https://t.me/yourhandle',
+    'https://wa.me/15550199284?text=Hi%20Bem%2C%20I%20would%20like%20to%20book%20an%20edit.',
+  telegramUrl: 'https://t.me/bemb_edit',
   socials: [
     { label: 'Instagram', href: 'https://instagram.com' },
     { label: 'Vimeo', href: 'https://vimeo.com' },
