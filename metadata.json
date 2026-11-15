@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Video Editor Portfolio",
+  "description": "Freelance video editor portfolio showcasing weddings, music videos, commercials, reels, color grading, and post-production workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
